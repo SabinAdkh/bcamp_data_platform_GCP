@@ -1,1 +1,1 @@
-# bcamp_data_platform_GCP
+# bcamp_data_platform_Azure

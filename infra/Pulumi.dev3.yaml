@@ -1,3 +1,0 @@
-config:
-  gcp:project: My First Project
-  gcp:zone: us-central1
